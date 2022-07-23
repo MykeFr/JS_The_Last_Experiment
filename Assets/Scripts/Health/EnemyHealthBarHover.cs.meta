@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f5154c4183d35f2dafa3901f689cc39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarUIPrefab: {instanceID: 0}
+  - brokenEnemy: {instanceID: 0}
+  - EnemySquishSound: {fileID: 5073211674628299702, guid: eebad9b3ff97bfa96a34f659e3e55b8e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
